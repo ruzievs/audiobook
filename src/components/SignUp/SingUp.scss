@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+
+}
+
+.div {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.589);
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+form {
+    z-index: 1;
+    position: relative;
+    width: 300px;
+    height: 230px;
+    border-radius: 10px;
+    padding: 5px 15px;
+    padding-top: 60px;
+    margin: 0 auto;
+}
+
+form .input {
+    display: block;
+    margin: 15px 0;
+    margin-left: 25px;
+    border: 1px solid #fff;
+    padding: 10px 40px;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+form button {
+    background-color: #eb4411;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    margin: 10px 0;
+    margin-left: 100px;
+    border-radius: 10px;
+    width: 100px;
+    transition: 0.5s;
+}
+
+form .input:hover {
+    transform: scaleX(1.09);
+}
+
+form button:hover {
+    padding: 12px;
+    box-shadow: rgba(252, 252, 252, 0.747) 0px 7px 20px 0px;
+    transform: scale(1.001);
+    font-weight: 700;
+}
+
+form input:hover~button {
+    background-color: #eb441163;
+}
+
+/*# sourceMappingURL=style.css.map */
+
+.containerr {
+    position: relative;
+    width: 320px;
+    margin: 60px auto 0 auto;
+    perspective: 1000px;
+}
+
+.carousel {
+    position: absolute;
+    width: 100%;
+    height: 80%;
+    top: 350px;
+    transform-style: preserve-3d;
+    animation: rotate360px 60s infinite forwards linear;
+}
+
+.image {
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    top: 10px;
+    left: 40px;
+    right: 10px;
+    background-size: cover;
+    background-position: center;
+    box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5);
+    display: flex;
+    border-radius: 10px;
+}
+
+.butn {
+    cursor: pointer;
+}
+
+.link {
+    color: wheat;
+    cursor: pointer;
+}
+
+span {
+    margin: auto;
+    font-size: 2rem;
+    color: aliceblue;
+    font-family: sans-serif;
+}
+
+.image:nth-child(1) {
+    background-image: url('https://assets.asaxiy.uz/product/items/desktop/91d0dbfd38d950cb716c4dd26c5da08a2022042721412544769huYrPILk9Q.jpg.webp');
+    transform: rotateY(0deg) translateZ(430px);
+}
+
+.image:nth-child(2) {
+    background-image: url('https://assets.asaxiy.uz/product/items/desktop/01083da2df15d6ebfe62186418a768632020110619522239966wtsBWUg1qj.jpg.webp');
+    transform: rotateY(40deg) translateZ(430px);
+}
+
+.image:nth-child(3) {
+    background-image: url('https://assets.asaxiy.uz/product/items/desktop/88855547570f7ff053fff7c54e5148cc2022042720464113618BtdRCf6HgZ.jpg.webp');
+    transform: rotateY(80deg) translateZ(430px);
+}
+
+.image:nth-child(4) {
+    background-image: url('https://assets.asaxiy.uz/product/items/desktop/4e0223a87610176ef0d24ef6d2dcde3a2022012619210383165TMzTh3krZb.jpg.webp');
+    transform: rotateY(120deg) translateZ(430px);
+}
+
+.image:nth-child(5) {
+    background-image: url('https://assets.asaxiy.uz/product/items/desktop/5e15beb85921b.jpg.webp');
+    transform: rotateY(160deg) translateZ(430px);
+
+}
+
+.image:nth-child(6) {
+    background-image: url('https://assets.asaxiy.uz/product/items/desktop/5bc5156ee6aa3f0a799736a3efefc55e2020040315353198175fPIngCQFgx.jpg.webp');
+    transform: rotateY(200deg) translateZ(430px);
+}
+
+.image:nth-child(7) {
+    background-image: url('https://assets.asaxiy.uz/product/items/desktop/165a59f7cf3b5c4396ba65953d679f172022042720313229515F7tjX0OpOc.jpg.webp');
+    transform: rotateY(240deg) translateZ(430px);
+}
+
+.image:nth-child(8) {
+    background-image: url('https://assets.asaxiy.uz/product/items/desktop/59dfa2df42d9e3d41f5b02bfc32229dd2022033116595526197ayv7w0nIP6.jpg.webp');
+    transform: rotateY(280deg) translateZ(430px);
+}
+
+.image:nth-child(9) {
+    background-image: url('https://assets.asaxiy.uz/product/items/desktop/da437bc79f2fdb60f7d9f0d518500ca22022111012363689240b1JJqh82L6.jpeg');
+    transform: rotateY(320deg) translateZ(430px);
+}
+
+@keyframes rotate360px {
+    from {
+        transform: rotateY(0deg);
+    }
+
+    to {
+        transform: rotateY(-500deg);
+    }
+}

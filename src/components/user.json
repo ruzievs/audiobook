@@ -1,0 +1,149 @@
+
+[
+    {
+      "id": 0,
+      "author": "Piter Hopkirk",
+      "name": "Katta O'yin",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/fc452d063a72e0824cacf90a32c3e3582022101718250210925lKUsokqUPj.jpg.webp",
+      "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "describtion2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam."
+    },
+    {
+      "id": 1,
+      "author": "Reybrend Berry",
+      "name": "Farrengeyt Boyicha",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/662548dada72a36a0c52c675797272fe2022042616435663053Lxg3AqGOZZ.jpg.webp",
+      "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "describtion2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam."
+    },
+    {
+      "id": 2,
+      "author": "Xans Rosling",
+      "name": "Fact Fullness",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/5463b514e21fbd3fec3772fba142a46e2022071111274681263C4RoK21K6h.jpg.webp",
+      "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "describtion2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam."
+    },
+    {
+      "id": 3,
+      "author": "New York Times",
+      "name": "Mamlakatlar Tanazuli",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/900c563bfd2c48c16701acca83ad858a2022042720340269270BUWeKppjRJ.jpg.webp",
+      "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "describtion2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam."
+  
+    },
+    {
+      "id": 4,
+      "author": "Tony Sheyn",
+      "name": "Baxt Yetkazish",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/ec47a5de1ebd60f559fee4afd739d59b2022031115422626431DicnyEB51t.jpg.webp",
+      "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "describtion2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam."
+  
+    },
+    {
+      "id": 5,
+      "author": "Uoltr Ayjekson",
+      "name": "Stive Jobs",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/62afaf4f661699d406da07f417694ab02020090113252448908XTd2lc78nx.jpg.webp",
+      "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "describtion2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam."
+    },
+    {
+      "id": 6,
+      "author": "Robin Sharma",
+      "name": "O'lsang Kim Yig'laydi",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/e0f48988114ada340782b2354c906ebc2020120916245217810L3SDzL9FOP.jpg.webp",
+      "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "describtion2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam."
+    },
+    {
+      "id": 7,
+      "author": "Paulo Koylo",
+      "name": "Alif",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/818de4d2ec21cfcb149ced7a5bed25ab2022042721370919249Io0G7IrzGp.jpg.webp",
+      "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "describtion2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam."
+    },
+    {
+      "id": 8,
+      "author": "Mark Menson",
+      "name": "Beparvolik Nozik Sanat",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/6e16656a6ee1de7232164767ccfa79202022042720485117146X2bgyDuYei.jpg.webp",
+      "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "describtion2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam."
+    },
+    {
+      "id": 9,
+      "author": "Deniel Kiz",
+      "name": "Eljernonga Atalgan Gullar",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/da437bc79f2fdb60f7d9f0d518500ca22022111012363689240b1JJqh82L6.jpeg",
+      "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "describtion2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam."
+    },
+    {
+      "id": 10,
+      "author": "Yona Berger",
+      "name": "Yuqumlik",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/59dfa2df42d9e3d41f5b02bfc32229dd2022033116595526197ayv7w0nIP6.jpg.webp",
+      "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "describtion2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam."
+    },
+    {
+      "id": 11,
+      "author": "Steven Kovi",
+      "name": "Muvofiqiyatli Insonlar",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/165a59f7cf3b5c4396ba65953d679f172022042720313229515F7tjX0OpOc.jpg.webp",
+      "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "describtion2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam."
+    },
+    {
+      "id": 12,
+      "author": "Jovlon Jovliev",
+      "name": "Qorqma",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/91d0dbfd38d950cb716c4dd26c5da08a2022042721412544769huYrPILk9Q.jpg.webp",
+      "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "describtion2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam."
+    },
+    {
+      "id": 13,
+      "author": "Henri Ford",
+      "name": "Mening Hayotim",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/01083da2df15d6ebfe62186418a768632020110619522239966wtsBWUg1qj.jpg.webp",
+      "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "describtion2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam."
+    },
+    {
+      "id": 14,
+      "author": "Jhon Miller",
+      "name": "Savol Ortidagi Savol",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/88855547570f7ff053fff7c54e5148cc2022042720464113618BtdRCf6HgZ.jpg.webp",
+      "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "describtion2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam."
+    },
+    {
+      "id": 15,
+      "author": "Brayn Treysi",
+      "name": "Samaradorligni 21 yo'li",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/4e0223a87610176ef0d24ef6d2dcde3a2022012619210383165TMzTh3krZb.jpg.webp",
+      "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "describtion2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam."
+    },
+    {
+      "id": 16,
+      "author": "Brayn Treysi",
+      "name": "Taym Menejment",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/5e15beb85921b.jpg.webp",
+      "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "describtion2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam."
+    },
+    {
+      "id": 17,
+      "author": "Og Morino",
+      "name": "Dunyoning Eng Buyuk Savdogari",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/5bc5156ee6aa3f0a799736a3efefc55e2020040315353198175fPIngCQFgx.jpg.webp",
+      "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "describtion2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto at ratione, magnam nostrum quod laboriosam. Eveniet magni explicabo nemo veniam."
+    }
+  ]

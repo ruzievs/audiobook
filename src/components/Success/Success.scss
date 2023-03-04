@@ -1,0 +1,24 @@
+
+
+.succesful {
+    width: 613px;
+    transform: translate(430px, 300px);
+    background: rgba(13, 13, 14, 0.884);
+    // padding: 20px;
+
+    
+    &__title {
+        color: white;
+        font-size: 20px;
+        padding: 40px;
+        margin-left:80px;
+    }
+
+    &__icon {
+        position: absolute;
+        color: rgb(68, 173, 68);
+        left: 80px;
+        top: 42px;
+        font-size: 25px;
+    }
+}
